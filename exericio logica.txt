@@ -38,6 +38,7 @@ Lavar Copo
 
 Algoritmo - Postar foto em rede social
 
+Postar foto
 1 - Acessar a rede social
 2 - Criar nova postagem;
 3 - Selecionar a foto;
@@ -46,4 +47,40 @@ Algoritmo - Postar foto em rede social
 6 - Marcar pessoas;
 7 - Adicionar localização;
 5 - Publicar;
+
+
+Passear com o Cão
+1 - Pegar a colera do cão
+2 - Ir até o cão
+3 - Inserir a colera no cão
+4 - Verficar se a coleira esta bem preza
+	5 - Caso esteja, "ok"
+	6 - Caso não, ajustar
+7 - Pegar uma sacola para os dejetos do animal
+8 - Ir para o local de passeio
+9 - Passear durante 30 minutos
+	10 - Caso o cão faça suas necessidades, limpar
+	11- Senão, prosseguir
+12 - Voltar para casa
+13 - Retirar a colheira
+14 - guardar a coleira
+15 - Fim
+
+
+Utilizar Computador
+
+1 - Verificar se os cabos de conexão estão plugados nos locais adequados
+2 - Colocar a tomada do computador na rede elétrica
+3 - Inicialmente apertar o botão start para inicializar o computador
+	4 - Caso não esteja funcionando, verficiar cabeamento e disponibilidade da rede eletrica
+
+	5 - Caso esteja tudo tudo bem, prosseguir
+6 - Aguardar a inicialização do windows
+	7 - Caso não inicialize, verificar se existe algum problema com o windows
+
+	8 - Senão, prosseguir
+9 - Utilizar o computador
+10 - Depois que utilizar, desligar o computador
+11 - Retirar da tomada
+12 - Fim
 
