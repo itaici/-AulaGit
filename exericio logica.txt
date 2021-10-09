@@ -1,0 +1,49 @@
+Troca da Lampada.
+1 -  ligar o iterruptor
+2 -  Caso esteja fucionando va para o passo 16
+3 -  Pegar a escada  
+4 -  Subir na escada   
+5 -  Verifacar se a lampada bem rosqueada no bocal
+6 -  Descer da escada
+7 -  Verifcar se o voltou a funcionar se sim va para o passo 
+8 -  Caso o problema persistir pegar uma lampada nova
+9 -  Subir na escada
+10 - Tirar a lampada queimada e quarde no bolso
+11 - Colocar a lampada nova 
+12 - Descer da escada
+13 - Testar a lampada nova 
+14 - Caso funcione va para o passo 16
+15 - Caso na funcione chamar um eletricista  
+16 - FIM 
+
+Lavar Copo
+1 - Ir ate a pia
+2 - Verificar se exite copos sujos. Se nao ir para o passo 17
+3 - Verificar se tem agua na torneira. Se nao ir para o passo 17
+4 - Verificar se tem bucha. Se nao ir para o passo 17
+5 - Verificar se possui detergente.Se nao ir para o passo 17 
+6 - Passar o detergente na bucha.
+7 - Pegar o copo sujo
+8 - Esfregar a espoja na parte de dentro do copo
+9 - Esfregar a parte de fora do copo
+10 - Separe 
+10 - Possui mais copos sujos? Se sim volta para o passo 7.
+11 - ligar a torneira
+12 - Pegar copo ensaboado.
+13 - enxagar o copo
+14 - colocar no escorredor
+15 - Tem mais copos ensaboados? se sim volta para o passo 11
+16 - desligar a torneira
+17 - FIM
+
+Algoritmo - Postar foto em rede social
+
+1 - Acessar a rede social
+2 - Criar nova postagem;
+3 - Selecionar a foto;
+4 - Adicionar filtro;
+5 - Inserir legenda;
+6 - Marcar pessoas;
+7 - Adicionar localização;
+5 - Publicar;
+
